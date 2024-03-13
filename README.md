@@ -14,6 +14,9 @@ This is a community-supported list of data science resources relevant to data on
 `deweydatayr`: R library for Dewey Data
 - [Tutorial](https://github.com/Dewey-Data/deweydatar)
 
+### Community
+General support resources, user FAQs, and more can be found at [community.deweydata.io](community.deweydata.io)
+
 ## Vendors
 
 ### Simlarweb
