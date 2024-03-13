@@ -18,7 +18,7 @@ This is a community-supported list of data science resources relevant to data on
 
 ### Simlarweb
 
-- [This CoLab notebook](https://www.deweydata.io/) shows you how to download data using the `deweydatapy` library. We then join a domain key to the dataset to improve the legibility of our visuals. Next, we will preform some high-level analysis of the most downloaded Android apps. Finally, we will review user habits of social media apps on Android. </li>
+- [This CoLab notebook](https://www.deweydata.io/) shows you how to download data using the `deweydatapy` library as well as preform some high-level analysis of the most downloaded Android apps and user habits of social media apps on Android. </li>
 - 
 
 ### WageScape 
