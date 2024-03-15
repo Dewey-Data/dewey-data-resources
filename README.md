@@ -19,10 +19,13 @@ General support resources, user FAQs, and more can be found at [community.deweyd
 
 ## Vendors
 
+### SafeGraph
+- [This CoLab notebook](https://colab.research.google.com/drive/1uUbNEfeNGZu-FTzJa1oYHhIzOxecXdL9?usp=sharing) demonstrates how SafeGraph core data can be used as a master POI database for certain markets (based on NAICS code).
+- [This CoLab notebook](https://colab.research.google.com/drive/1OUopjpogmucEghS_7Ufxl3lKIp8s9H1h#offline=true&sandboxMode=true) will help get you oriented with SafeGraph data using `python` and `pandas`. 
+
 ### Simlarweb
 
-- [This CoLab notebook](https://drive.google.com/file/d/1c4M_dALDsnllE9rhIn-KotvH3mvhPjub/view?usp=sharing) shows you how to download data using the `deweydatapy` library as well as perform some high-level analysis of the most downloaded Android apps and user habits of social media apps on Android. </li>
-- 
+- [This CoLab notebook](https://drive.google.com/file/d/1c4M_dALDsnllE9rhIn-KotvH3mvhPjub/view?usp=sharing) shows you how to download data using the `deweydatapy` library as well as perform some high-level analysis of the most downloaded Android apps and user habits of social media apps on Android.
 
 ### WageScape 
 
