@@ -21,7 +21,7 @@ General support resources, user FAQs, and more can be found at [community.deweyd
 
 ### Simlarweb
 
-- [This CoLab notebook](https://www.deweydata.io/) shows you how to download data using the `deweydatapy` library as well as perform some high-level analysis of the most downloaded Android apps and user habits of social media apps on Android. </li>
+- [This CoLab notebook](https://drive.google.com/file/d/1c4M_dALDsnllE9rhIn-KotvH3mvhPjub/view?usp=sharing) shows you how to download data using the `deweydatapy` library as well as perform some high-level analysis of the most downloaded Android apps and user habits of social media apps on Android. </li>
 - 
 
 ### WageScape 
