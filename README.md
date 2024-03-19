@@ -21,12 +21,9 @@ General support resources, user FAQs, and more can be found at [community.deweyd
 
 ### SafeGraph
 - [This CoLab notebook](https://colab.research.google.com/drive/1uUbNEfeNGZu-FTzJa1oYHhIzOxecXdL9?usp=sharing) demonstrates how SafeGraph core data can be used as a master POI database for certain markets (based on NAICS code).
-- [This CoLab notebook](https://colab.research.google.com/drive/1OUopjpogmucEghS_7Ufxl3lKIp8s9H1h#offline=true&sandboxMode=true) will help get you oriented with SafeGraph data using `python` and `pandas`. 
+- [This CoLab notebook](https://colab.research.google.com/drive/1OUopjpogmucEghS_7Ufxl3lKIp8s9H1h#offline=true&sandboxMode=true) helps get you oriented with SafeGraph data using `python` and `pandas`.
+- [This CoLab notebook](https://colab.research.google.com/drive/1CNJ4ApybQid4bRd8qjE0_pLgtY1xActF?usp=sharing#scrollTo=F8ariV45baNA) provides an analysis of the correlation between SafeGraph Spend and Patterns and aims to model how the delta in transactions at Chipotle can be observed in the foot traffic at neighboring gyms.
+- [This CoLab notebook](https://colab.research.google.com/drive/1lTi8JXfX9rh2mnuFjgYgKsIcMcDI3EG_?usp=sharing) outlines best practices for normalizing SafeGraph Patterns data over time. 
 
 ### Simlarweb
-
 - [This CoLab notebook](https://colab.research.google.com/drive/1c4M_dALDsnllE9rhIn-KotvH3mvhPjub#scrollTo=7670DQrTGYC4) shows you how to download data using the `deweydatapy` library as well as perform some high-level analysis of the most downloaded Android apps and user habits of social media apps on Android.
-
-### WageScape 
-
-- 
