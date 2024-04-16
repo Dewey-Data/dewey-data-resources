@@ -8,11 +8,19 @@ This is a community-supported list of data science resources relevant to data on
 ## Resources
 
 ### Libraries
-`deweydatapy`: Python library for Dewey Data
+`deweydatapy`: Python library for accessing data from Dewey via API
 - [Tutorial](https://github.com/Dewey-Data/deweydatapy)
+  -  How to create API key and retreive product path
+  -  How to install the library
+  -  Example of how to download data
+  -  Funtion overview
 
-`deweydatayr`: R library for Dewey Data
+`deweydatayr`: R library for accessing data from Dewey via API
 - [Tutorial](https://github.com/Dewey-Data/deweydatar)
+  -  How to create API key and retreive product path
+  -  How to install the library
+  -  Example of how to download data
+  -  Funtion overview
 
 ### Community
 General support resources, user FAQs, and more can be found at [community.deweydata.io](community.deweydata.io)
